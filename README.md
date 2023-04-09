@@ -1,13 +1,12 @@
 ### Hi there, I'm Pavan 👋
 
-- 🔭 I’m currently working on my personal website 
-- 🌱 I’m currently learning Design Patterns, Data Structures & Algorithms
+- 🔭 I’m currently working on a mobile app with AR features
+- 🌱 I’m currently learning Design Patterns, Data Structures & Algorithms, Unity AR
 - 📫 How to reach me: 📧<a href="mailto:rajivapitiwaduge@gmail.com">rajivapitiwaduge@gmail.com</a>
 - 😄 Pronouns: He/Him 👦🏻
 - ⚡ Fun fact: I'm a procastinating perfectionist. Not a good combo 😐
-
+- 🤔 I’m looking for help with Unity AR 
 <!--
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 -->
