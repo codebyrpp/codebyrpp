@@ -6,6 +6,9 @@
 - 😄 Pronouns: He/Him 👦🏻
 - ⚡ Fun fact: I'm a procastinating perfectionist. Not a good combo 😐
 
+Visit my webiste [pavanpitiwaduge.me](https://pavanpitiwaduge.me) to checkout the projects I've done and the tools that I use to build them.
+
+![](https://github-readme-stats.vercel.app/api?username=rajivaPavan&show_icons=true&theme=transparent)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about 
