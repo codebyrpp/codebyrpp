@@ -1,13 +1,19 @@
-## Hi there, I'm Pavan 👋
+# Hi there, I'm Pavan! 👋
 
-- 🔭 I’m currently working on a mobile app for a book store and also a form creator app
-- 🌱 I’m currently learning about Computer Architecture, Operating Systems and bunch of other cool CS topics. 
-- 📫 How to reach me: 📧<a href="mailto:rajivapitiwaduge@gmail.com">rajivapitiwaduge@gmail.com</a>
+I'm a tech enthusiast currently immersed in the world of software development. Here's a bit about me:
+
+- 🔭 I'm passionately crafting a mobile app dedicated to revolutionizing the way we experience reading.
+- 🌱 Currently exploring the intricacies of Computer Architecture, Operating Systems, and other fascinating Computer Science domains.
 - 😄 Pronouns: He/Him 👦🏻
-- ⚡ Fun fact: I'm a procastinating perfectionist. Not a good combo 😐
+- ⚡ Fun fact: I possess the unique blend of being a procrastinating perfectionist — not always the most efficient combo! 😐
 
-### I use these languages, frameworks and tools in my projects
+## Get in Touch
+- 📫 How to reach me: 📧 [rajivapitiwaduge@gmail.com](mailto:rajivapitiwaduge@gmail.com)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/pavan-pitiwaduge/)
+- Personal Website: [Explore more about me on my website](https://www.pavanpitiwaduge.me)
+
+## My Toolbox
+I wield these languages, frameworks, and tools in my projects:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vue,vite,java,c,cpp,cs,dotnet,visualstudio,dart,flutter,androidstudio,git,github,linux,py,mysql,postman,vscode,latex,markdown)](https://skillicons.dev)
 
-![](https://github-readme-stats.vercel.app/api?username=rajivaPavan&show_icons=true&theme=transparent)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajivaPavan&show_icons=true&theme=transparent)
