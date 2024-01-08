@@ -10,15 +10,15 @@ I'm a tech enthusiast currently immersed in the world of software development.
 <div style="background-color:white !important; width:min-content; display:grid;
 grid-template-columns: repeat(3, 1fr); grid-gap: 10px;
 line-height:1em; padding:5px; border-radius:10px">
-<a href="https://twitter.com/_pavan0001" style="text-decoration:none;">
+<a target="_blank" href="https://twitter.com/_pavan0001" style="text-decoration:none;">
      <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/twitter/twitter.svg"/>
 </a>
   
-<a href="https://www.linkedin.com/in/pavan-pitiwaduge/">
+<a target="_blank" href="https://www.linkedin.com/in/pavan-pitiwaduge/">
      <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/linkedin/linkedin.svg"/>
 </a>
 
-<a href="mailto:rajivapitiwaduge@gmail.com" style="text-decoration:none;">
+<a target="_blank" href="mailto:rajivapitiwaduge@gmail.com" style="text-decoration:none;">
      <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/gmail/gmail.svg"/>
 </a>
 </div>
