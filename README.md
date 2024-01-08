@@ -6,23 +6,20 @@ I'm a tech enthusiast currently immersed in the world of software development.
 
 [Explore more about me on my website](https://www.pavanpitiwaduge.me)
 ## Get in Touch
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
-<div style="background-color:white; width:min-content; display:grid;
+
+<div style="background-color:white !important; width:min-content; display:grid;
 grid-template-columns: repeat(3, 1fr); grid-gap: 10px;
 line-height:1em; padding:5px; border-radius:10px">
-<a href="https://twitter.com/_pavan0001">
-  <span><i class="ci ci-x ci-2x"></i></span>
-</span>
+<a href="https://twitter.com/_pavan0001" style="text-decoration:none;">
+     <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/twitter/twitter.svg"/>
 </a>
+  
 <a href="https://www.linkedin.com/in/pavan-pitiwaduge/">
-  <span><i class="ci ci-linkedin ci-2x"></i></span>
+     <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/linkedin/linkedin.svg"/>
 </a>
-<!-- ci ci-gmail ci-2x -->
-<a href="mailto:rajivapitiwaduge@gmail.com">
-  <span><i class="ci ci-gmail ci-2x"></i></span>
+
+<a href="mailto:rajivapitiwaduge@gmail.com" style="text-decoration:none;">
+     <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/gmail/gmail.svg"/>
 </a>
 </div>
 
