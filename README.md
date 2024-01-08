@@ -1,16 +1,30 @@
 # Hi there, I'm Pavan! 👋
 
-I'm a tech enthusiast currently immersed in the world of software development. Here's a bit about me:
-
-- 🔭 I'm passionately crafting a mobile app dedicated to revolutionizing the way we experience reading.
-- 🌱 Currently exploring the intricacies of Computer Architecture, Operating Systems, and other fascinating Computer Science domains.
-- 😄 Pronouns: He/Him 👦🏻
+I'm a tech enthusiast currently immersed in the world of software development.
+- 🔭 I'm currently crafting a mobile app dedicated to change the way we experience reading.
 - ⚡ Fun fact: I possess the unique blend of being a procrastinating perfectionist — not always the most efficient combo! 😐
 
+[Explore more about me on my website](https://www.pavanpitiwaduge.me)
 ## Get in Touch
-- 📫 How to reach me: 📧 [rajivapitiwaduge@gmail.com](mailto:rajivapitiwaduge@gmail.com)
-- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/pavan-pitiwaduge/)
-- Personal Website: [Explore more about me on my website](https://www.pavanpitiwaduge.me)
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+/>
+<div style="background-color:white; width:min-content; display:grid;
+grid-template-columns: repeat(3, 1fr); grid-gap: 10px;
+line-height:1em; padding:5px; border-radius:10px">
+<a href="https://twitter.com/_pavan0001">
+  <span><i class="ci ci-x ci-2x"></i></span>
+</span>
+</a>
+<a href="https://www.linkedin.com/in/pavan-pitiwaduge/">
+  <span><i class="ci ci-linkedin ci-2x"></i></span>
+</a>
+<!-- ci ci-gmail ci-2x -->
+<a href="mailto:rajivapitiwaduge@gmail.com">
+  <span><i class="ci ci-gmail ci-2x"></i></span>
+</a>
+</div>
 
 ## My Toolbox
 I wield these languages, frameworks, and tools in my projects:
