@@ -1,8 +1,5 @@
 # Hi there, I'm Pavan! 👋
 
-I'm a tech enthusiast currently immersed in the world of software development.
-⚡ Fun fact: I possess the unique blend of being a procrastinating perfectionist — not always the most efficient combo! 😐
-
 [Explore more about me on my website](https://www.pavanpitiwaduge.me)
 ## Get in Touch
 
