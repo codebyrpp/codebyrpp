@@ -1,6 +1,6 @@
 # Hi there, I'm Pavan! 👋
 
-[Explore more about me on my website](https://www.pavanpitiwaduge.me)
+[Explore more about me on my website](https://www.pavanpitiwaduge.com)
 ## Get in Touch
 
 <div style="background-color:white !important; width:min-content; display:grid;
@@ -22,5 +22,3 @@ line-height:1em; padding:5px; border-radius:10px">
 ## My Toolbox
 I wield these languages, frameworks, and tools in my projects:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,vue,vite,java,c,cpp,cs,dotnet,visualstudio,dart,flutter,androidstudio,git,github,linux,py,mysql,mongo,redis,docker,jest,cypress,azure,postman,vscode,latex,markdown)](https://skillicons.dev)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajivaPavan&show_icons=true&theme=transparent)
