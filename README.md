@@ -1,24 +1,17 @@
-# Hi there, I'm Pavan! 👋
+Hi there, I'm Pavan! 👋
+---
+- Currently a 4th year Computer Science and Engineering Undergraduate at ![@UoM](cse.uom.lk) 🇱🇰
+- Interested in System Design, HCI, Domain Specific ML. 
 
-[Explore more about me on my website](https://www.pavanpitiwaduge.com)
-## Get in Touch
+Toolbox 🧰
+---
+[![](https://skillicons.dev/icons?i=ts,nestjs,nodejs,nextjs,react,tailwind,js,go,py,docker,azure,redis,postgres,mongo,mysql,git,github,postman,cypress,jest,flutter,dart,html,css,linux,java,dotnet,cs,markdown,figma)](https://skillicons.dev)
 
-<div style="background-color:white !important; width:min-content; display:grid;
-grid-template-columns: repeat(3, 1fr); grid-gap: 10px;
-line-height:1em; padding:5px; border-radius:10px">
-<a target="_blank" href="https://twitter.com/_pavan0001" style="text-decoration:none;">
-     <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/twitter/twitter.svg"/>
-</a>
-  
-<a target="_blank" href="https://www.linkedin.com/in/pavan-pitiwaduge/">
-     <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/linkedin/linkedin.svg"/>
-</a>
+Lets Connect 📨:
+---
+[![Website](https://img.shields.io/badge/🌐%20Website-pavanpitiwaduge.com-blue?style=flat)](https://www.pavanpitiwaduge.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-pavan--pitiwaduge-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-pitiwaduge)
+[![Email](https://img.shields.io/badge/📧%20Email-rajiva.21@cse.mrt.ac.lk-red?style=flat)](mailto:rajiva.21@cse.mrt.ac.lk)
+[![GitHub](https://img.shields.io/badge/🧑‍💻%20GitHub-rajivaPavan-black?style=flat&logo=github)](https://github.com/rajivaPavan)
 
-<a target="_blank" href="mailto:rajivapitiwaduge@gmail.com" style="text-decoration:none;">
-     <img style="height:2em;" src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f7e587a482aafa9b290d1f757ab0060128f4ff0a/public/icons/gmail/gmail.svg"/>
-</a>
-</div>
-
-## My Toolbox
-I wield these languages, frameworks, and tools in my projects:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,nextjs,vue,vite,java,c,cpp,cs,dotnet,visualstudio,dart,flutter,androidstudio,git,github,linux,py,mysql,mongo,redis,docker,jest,cypress,azure,postman,vscode,latex,markdown)](https://skillicons.dev)
+Thanks for visiting! 😊
