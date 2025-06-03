@@ -1,6 +1,6 @@
 Hi there, I'm Pavan! 👋
 ---
-- Currently a 4th year Computer Science and Engineering Undergraduate at ![@UoM](cse.uom.lk) 🇱🇰
+- Computer Science and Engineering Undergraduate at ![@UoM](cse.uom.lk) 🇱🇰
 - Interested in System Design, HCI, Domain Specific ML. 
 
 Toolbox 🧰
