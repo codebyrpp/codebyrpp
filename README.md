@@ -1,7 +1,7 @@
 Hi there, I'm Pavan! 👋
 ---
 - Computer Science and Engineering Undergraduate at ![@UoM](cse.uom.lk) 🇱🇰
-- Interested in System Design, HCI, Domain Specific ML. 
+- Interested in System Design
 
 Toolbox 🧰
 ---
